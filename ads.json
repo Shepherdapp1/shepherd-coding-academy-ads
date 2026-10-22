@@ -1,0 +1,17 @@
+{
+  "ads_schema_version": 1,
+  "revision": 1,
+  "rotation_seconds": 12,
+  "ads": [
+    {
+      "id": "advertise-with-us",
+      "kind": "image",
+      "media_type": "image/png",
+      "url": "https://raw.githubusercontent.com/Shepherdapp1/shepherd-coding-academy-ads/main/advertise-here.png",
+      "sha256": "26f7b2d850b2ad0cfc5aa69b9fa9ff26d5235964adda13ba5efcdefefd9dc3a5",
+      "size_bytes": 43326,
+      "caption": "Your business here, on every lesson page.",
+      "link": "https://wa.me/233557664933"
+    }
+  ]
+}
